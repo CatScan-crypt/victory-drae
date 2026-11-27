@@ -3936,6 +3936,7 @@ fn late_line(frames: f64) {
 pub(crate) mod aside;
 pub(crate) mod awake;
 mod card_steps;
+mod clock;
 pub(crate) mod indirects;
 mod panel;
 mod place;
